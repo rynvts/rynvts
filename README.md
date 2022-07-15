@@ -11,7 +11,7 @@
 <img src = "https://user-images.githubusercontent.com/62637676/179163369-a2d18bbc-2f06-41fd-b9fd-2089fe12a148.png">
 <h3> Step 3 (Working of Adobe Manifest portal):</h3>
 <img src = "https://user-images.githubusercontent.com/62637676/179163572-927bb246-ba83-4b90-8065-c30f808d744b.png">
-  <li> Login here by entering the correct username and password (Ask your manager for the credentials) and click on Login button.<li/>
+  <li> Login here by entering the correct username and password (Ask your manager for the credentials) and click on Login button.</li>
 <img src = "https://user-images.githubusercontent.com/62637676/179163675-c7a67a42-5d62-4c95-a1d5-c234dae38cdd.png">
   <li> After login you will be redirected to the ‘Home’ page. Here you can click on either ‘Single customer’ entry or ‘Multiple customer entry’ according to your needs (explained below).</li>
   <li> On the top right corner, you can click logout to go back to login screen.</li>
